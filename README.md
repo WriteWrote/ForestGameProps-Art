@@ -6,3 +6,9 @@ When be continued: after finishing Elfgirl project and Planets for indi-game.
 
 If you want to keep an eye on progress, you could track the Git-Hub Project connected to this rep:
 https://github.com/users/WriteWrote/projects/1
+
+# Current stage: Rocks
+![Иллюстрация к проекту](https://github.com/WriteWrote/Game-Props/blob/master/1.png)
+
+# Sketch
+![Иллюстрация к проекту](https://github.com/WriteWrote/Game-Props/blob/master/3.png)
