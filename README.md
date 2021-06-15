@@ -8,6 +8,6 @@ If you want to keep an eye on progress, you could track the Git-Hub Project conn
 https://github.com/users/WriteWrote/projects/1
 
 # Current stage: Trees
-
+![Иллюстрация к проекту](https://github.com/WriteWrote/ForestGameProps-Art/blob/master/4.png)
 # Sketch
 ![Иллюстрация к проекту](https://github.com/WriteWrote/Game-Props/blob/master/3.png)
