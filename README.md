@@ -11,3 +11,5 @@ https://github.com/users/WriteWrote/projects/1
 ![Иллюстрация к проекту](https://github.com/WriteWrote/ForestGameProps-Art/blob/master/4.png)
 # Sketch
 ![Иллюстрация к проекту](https://github.com/WriteWrote/Game-Props/blob/master/3.png)
+# Coloring & rendering
+![Иллюстрация к проекту](https://github.com/WriteWrote/ForestGameProps-Art/blob/master/5.png)
