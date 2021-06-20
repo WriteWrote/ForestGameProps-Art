@@ -1,15 +1,13 @@
 # What's going on?
-Set of Forest props, including plants, grass, bushes and rocks.
-Studying Vera Velichko's stream, **currently frozen** 'cause of university.
+Set of Forest props, including plants, grass, bushes and rocks, based on stutying Vera Velichko's streams #185-187.
+Now is finished and closed. Below I put some steps.
 
-When be continued: after finishing Elfgirl project and Planets for indi-game.
-
-If you want to keep an eye on progress, you could track the Git-Hub Project connected to this rep:
-https://github.com/users/WriteWrote/projects/1
-
-# Current stage: Trees
-![Иллюстрация к проекту](https://github.com/WriteWrote/ForestGameProps-Art/blob/master/4.png)
-# Sketch
+# Sketch & coloring
 ![Иллюстрация к проекту](https://github.com/WriteWrote/Game-Props/blob/master/3.png)
-# Coloring & rendering
+# Shading & rendering
 ![Иллюстрация к проекту](https://github.com/WriteWrote/ForestGameProps-Art/blob/master/5.png)
+# Final version
+![Иллюстрация к проекту](https://github.com/WriteWrote/ForestGameProps-Art/blob/master/props_finals.png)
+
+# Afterwords
+Although my result isn't so good as I was expecting, I'm still pleased that I finished this project after all. I'll recover this props-training some time later and will work with my mistakes.
