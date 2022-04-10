@@ -1,5 +1,5 @@
 # What's going on?
-Set of Forest props, including plants, grass, bushes and rocks, based on stutying Vera Velichko's streams #185-187.
+Set of Forest props, including plants, grass, bushes and rocks, based on studying Vera Velichko's streams #185-187.
 Now is finished and closed. Below I put some steps.
 
 # Sketch & coloring
